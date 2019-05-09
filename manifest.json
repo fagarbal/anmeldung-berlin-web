@@ -6,10 +6,22 @@
 			"src": "favicon.ico",
 			"sizes": "64x64 32x32 24x24 16x16",
 			"type": "image/x-icon"
+		},
+		{
+			"src": "launcher-icon.png",
+			"type": "image/png",
+			"sizes": "192x192 512x512"
 		}
 	],
-	"start_url": ".",
+	"start_url": "www.anmeldungberlin.com",
 	"display": "standalone",
 	"theme_color": "#000000",
-	"background_color": "#ffffff"
+	"background_color": "#ffffff",
+	"prefer_related_applications": true,
+	"related_applications": [
+		{
+			"platform": "play",
+			"id": "com.google.samples.apps.iosched"
+		}
+	]
 }
