@@ -16,12 +16,5 @@
 	"start_url": "www.anmeldungberlin.com",
 	"display": "standalone",
 	"theme_color": "#000000",
-	"background_color": "#ffffff",
-	"prefer_related_applications": true,
-	"related_applications": [
-		{
-			"platform": "play",
-			"id": "com.google.samples.apps.iosched"
-		}
-	]
+	"background_color": "#ffffff"
 }
