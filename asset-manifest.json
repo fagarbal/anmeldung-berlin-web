@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.32ae984c.chunk.css",
-    "main.js": "/static/js/main.67a8b773.chunk.js",
+    "main.js": "/static/js/main.94e0b019.chunk.js",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "static/css/2.1706367d.chunk.css": "/static/css/2.1706367d.chunk.css",
-    "static/js/2.f6e369a5.chunk.js": "/static/js/2.f6e369a5.chunk.js",
+    "static/css/2.df634add.chunk.css": "/static/css/2.df634add.chunk.css",
+    "static/js/2.1987b9cf.chunk.js": "/static/js/2.1987b9cf.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.dc93147138a725e2699f076aae693da7.js": "/precache-manifest.dc93147138a725e2699f076aae693da7.js",
+    "precache-manifest.58668fb416b9d95357d72e1bf672f83e.js": "/precache-manifest.58668fb416b9d95357d72e1bf672f83e.js",
     "service-worker.js": "/service-worker.js",
-    "static/media/flag-icon.css": "/static/media/zw.ad4ad36d.svg",
-    "static/media/index.css": "/static/media/roboto-latin-900italic.bc833e72.woff"
+    "static/media/flag-icon.css": "/static/media/zw.ad4ad36d.svg"
   }
 }
